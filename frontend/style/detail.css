@@ -1,0 +1,243 @@
+/* navbar */
+
+.navbar-brand{
+    color: #000 !important;
+    font-family: 'Inter';
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+}
+.nav-item{
+    color: #000 !important;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+.active{
+    font-weight: 600;
+}
+/* tutup navbar */
+
+/* breadcrumb */
+.breadcrumb{
+    margin-top: 30px;
+    background: none;
+}
+.breadcrumb-item{
+    color: #000 !important;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+.breadcrumb-item.active{
+    color: #474747 !important;
+}
+/* tutup breadcrumb */
+
+/* detail-img */
+.detail-img{
+    margin-top: 40px;
+}
+/* tutup detail-img */
+
+/* detail */
+.detail{
+    margin-top: 60px;
+}
+.rinci{
+    height: 500px;
+}
+.rinci h5{
+    color: #000 !important;
+    font-family: 'Inter';
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+}
+.rinci p{
+    width: 700px;
+    color: #000 !important;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.booking{
+    margin-left: 90px;
+    height: 500px;
+}
+.hed{
+    color: #000 !important;
+    font-family: 'Inter';
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+}
+.price{
+    color: #000 !important;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+.label{
+    color: #000;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+.custom-select{
+    width: 230px !important;
+    height: 45px !important;
+    text-align: center;
+    color: #4b4b4b;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.btn-add{
+    margin-left: -40px;
+    position: relative;
+    height: 45px;
+    border-radius: 0px 5px 5px 0px;
+}
+.btn-submit{
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+    border-radius: 8px;
+    background: #3A4CE9;
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+/* tutup detail */
+
+
+/* Popular */
+.popular{
+    margin-top: 60px;
+}
+.popular h5{
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.rinc{
+    margin-top: 10px;
+    padding-top: 15px;
+    width: 208px;
+    height: 100px;
+    border-radius: 0px 0px 30px 30px;
+    background: #68C5ED;
+    text-align: center;
+    transition: all 0.2s ease;
+}
+.rinc:hover{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.rinc a{
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+.rinc p{
+    color: #fff;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+}
+/* tutup Popular */
+
+
+/* Testimoni */
+.testimoni{
+    margin-top: 140px;
+}
+.test{
+    margin-left: 100px;
+}
+.test h5{
+    color: #000;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+}
+.test p {
+    color: #000;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 20px;
+}
+.btn-test{
+    border-radius: 10px;
+    width: 200px;
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    transition: all 0.2s ease;
+}
+.btn-test:hover{
+    transform: scale(1.1);
+}
+/* tutup Testimoni */
+
+/* footer */
+.brand-foot{
+    padding-top: 30px;
+    color: #000;
+    font-family: 'Inter';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+}
+footer{
+    height: 280px;
+    margin-top: 80px;
+    width: 1440px;
+    background: #CDD0D6;
+}
+.footer{
+    padding-bottom: 40px;
+}
+.footer-link{
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.footer-item{
+    height: 80px;
+}
+.copyright{
+    margin-top: 40px;
+    border-top: 1px solid #000;
+    text-align: center;
+}
+.copyright p{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+/* tutup footer */

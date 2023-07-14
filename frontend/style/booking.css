@@ -1,0 +1,141 @@
+.nav-brand{
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.booking{
+    margin-top: 50px;
+}
+
+.hed{
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+.info{
+    color: #726464;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+.nme{
+    color: #000 !important;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+.nme span{
+    margin-left: 150px;
+}
+.grs{
+    margin-left: 100px !important;
+    margin: 0;
+    width: 2px;
+    height: 500px;
+    background: #B9B4B4;
+}
+
+.label{
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+.form-text{
+    width: 350px !important;
+    height: 50px !important;
+    border: 1px solid #969292;
+    background: #FFF;
+}
+.kanan{
+    margin-left: 80px;
+}
+
+.btn-submit{
+    margin-top: 50px;
+    width: 250px;
+    height: 50px;
+    border-radius: 8px;
+    background: #3A4CE9;
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    transition: all 0.2s ease;
+}
+.btn-submit:hover{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.btn-cancel{
+    margin-top: 10px;
+    width: 250px;
+    height: 50px;
+    border-radius: 8px;
+    background: #ffffff;
+    border-color: #555555;
+    color: #000000;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    transition: all 0.2s ease;
+}
+.btn-cancel:hover{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+/* footer */
+.brand-foot{
+    padding-top: 30px;
+    color: #000;
+    font-family: 'Inter';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+}
+footer{
+    height: 280px;
+    margin-top: 80px;
+    width: 1440px;
+    background: #CDD0D6;
+}
+.footer{
+    padding-bottom: 40px;
+}
+.footer-link{
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.footer-item{
+    height: 80px;
+}
+.copyright{
+    margin-top: 40px;
+    border-top: 1px solid #000;
+    text-align: center;
+}
+.copyright p{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: #000;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+/* tutup footer */
